@@ -4,7 +4,7 @@ from simfile.notes import Note, NoteType, NoteData
 from simfile.timing import Beat
 import bisect
 
-# Filepath to mc file tobe converted
+# Filepath to mc file to be converted
 mc_path = 'malodyfile.mc'
 # Sample ssc file, preloaded with song info and a blank chart
 ssc_path = 'sample.ssc'
